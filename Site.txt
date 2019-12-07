@@ -1,2 +1,3 @@
 Учебник по GIT  https://git-scm.com/book/
+HTML Справочник https://htmlreference.io/
 
